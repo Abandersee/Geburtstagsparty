@@ -1,3 +1,5 @@
 Haus
 Boot
 Auto
+Pferd
+Hund
